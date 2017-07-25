@@ -1,0 +1,33 @@
+* {
+  font-family: Helvetica;
+}
+
+/* header section */
+.header h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+/* text descriptions */
+.description strong {
+  font-weight: bold;
+  color: blue;
+}
+
+/* section headers font and background color for each */
+.section-header h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.section-header #brushes {
+  background-color: mediumspringgreen;
+}
+.section-header #frames {
+  background-color: lightcoral;
+}
+.section-header #pain {
+  background-color: skyblue;
+}
